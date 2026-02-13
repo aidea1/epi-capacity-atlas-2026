@@ -2,6 +2,8 @@
 
 **A reproducible, state-level epidemiology capacity atlas derived from the NACCHO Profile public-use dataset.**
 
+Access at: https://aidea1.github.io/epi-capacity-atlas-2026/
+
 This repository generates an interactive, static HTML dashboard that visualizes epidemiology and surveillance capacity across U.S. states using standardized Local Health Department (LHD) survey data.
 
 The atlas is designed for:
